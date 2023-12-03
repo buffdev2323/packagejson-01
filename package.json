@@ -1,0 +1,11 @@
+{
+  "name": "fcc-1",
+  "version": "1.0.0",
+  "description": "first lesson fcc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AAA",
+  "license": "ISC"
+}
